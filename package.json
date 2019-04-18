@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "wmy": "bin/sugar"
+    "sugar": "bin/sugar"
   },
   "author": "aliarmo",
   "license": "ISC",
