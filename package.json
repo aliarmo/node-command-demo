@@ -1,0 +1,21 @@
+{
+  "name": "node-command-demo",
+  "version": "1.0.0",
+  "description": "手把手教你制作自定义node命令",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "wmy": "bin/sugar"
+  },
+  "author": "aliarmo",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^11.13.4"
+  },
+  "dependencies": {
+    "colors": "^1.3.3",
+    "commander": "^2.20.0"
+  }
+}
